@@ -8,7 +8,7 @@ Use intructions:
 - Run the main_app_final.py to open app
 
 
-![Alt Text](https://github.com/sotosbarl/Personal_AI_Assistant/blob/main/animation_pic.png)https://github.com/sotosbarl/Personal_AI_Assistant/blob/main/animation_pic.png)
+![Alt Text](https://github.com/sotosbarl/Personal_AI_Assistant/blob/main/animation_pic.png)
 
 *****DISCLAIMER******* ANIMATED VIDEO WAS TAKEN FROM https://www.vecteezy.com/video/11156819-animated-girl-talking-cartoon-character-green-screen-4k 
 NO COMMERCIAL USE
